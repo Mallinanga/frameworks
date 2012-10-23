@@ -7,3 +7,6 @@
 [submodule "holmes"]
 	path = holmes
 	url = git://github.com/redroot/holmes.git
+[submodule "helium-css"]
+	path = helium-css
+	url = http://github.com/geuis/helium-css.git
