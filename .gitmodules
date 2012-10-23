@@ -13,3 +13,6 @@
 [submodule "foundation"]
 	path = foundation
 	url = git://github.com/zurb/foundation.git
+[submodule "wp-stack"]
+	path = wp-stack
+	url = https://github.com/markjaquith/WP-Stack/
