@@ -4,3 +4,6 @@
 [submodule "html5-boilerplate"]
 	path = html5-boilerplate
 	url = git://github.com/h5bp/html5-boilerplate.git
+[submodule "holmes"]
+	path = holmes
+	url = git://github.com/redroot/holmes.git
