@@ -16,3 +16,6 @@
 [submodule "wp-stack"]
 	path = wp-stack
 	url = https://github.com/markjaquith/WP-Stack/
+[submodule "wordpress-cap"]
+	path = wordpress-cap
+	url = git://github.com/infovore/wordpress-cap.git
