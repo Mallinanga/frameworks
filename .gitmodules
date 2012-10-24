@@ -22,3 +22,6 @@
 [submodule "facebook-php-sdk"]
 	path = facebook-php-sdk
 	url = https://github.com/facebook/facebook-php-sdk
+[submodule "css3-facebook-buttons"]
+	path = css3-facebook-buttons
+	url = https://github.com/necolas/css3-facebook-buttons.git
