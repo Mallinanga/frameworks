@@ -19,3 +19,6 @@
 [submodule "wordpress-cap"]
 	path = wordpress-cap
 	url = git://github.com/infovore/wordpress-cap.git
+[submodule "facebook-php-sdk"]
+	path = facebook-php-sdk
+	url = https://github.com/facebook/facebook-php-sdk
