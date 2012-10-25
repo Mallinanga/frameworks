@@ -25,3 +25,6 @@
 [submodule "css3-facebook-buttons"]
 	path = css3-facebook-buttons
 	url = https://github.com/necolas/css3-facebook-buttons.git
+[submodule "webicons"]
+	path = webicons
+	url = https://github.com/adamfairhead/webicons.git
