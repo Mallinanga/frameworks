@@ -28,3 +28,6 @@
 [submodule "webicons"]
 	path = webicons
 	url = https://github.com/adamfairhead/webicons.git
+[submodule "foundation-icons"]
+	path = foundation-icons
+	url = https://github.com/zurb/foundation-icons.git
