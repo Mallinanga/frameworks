@@ -31,3 +31,6 @@
 [submodule "foundation-icons"]
 	path = foundation-icons
 	url = https://github.com/zurb/foundation-icons.git
+[submodule "mailchimp"]
+	path = mailchimp
+	url = https://github.com/mailchimp/Email-Blueprints.git
