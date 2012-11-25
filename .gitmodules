@@ -34,3 +34,6 @@
 [submodule "mailchimp"]
 	path = mailchimp
 	url = https://github.com/mailchimp/Email-Blueprints.git
+[submodule "lesshat"]
+	path = lesshat
+	url = https://github.com/CSSHat/LESSHat.git
