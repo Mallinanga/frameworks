@@ -37,3 +37,6 @@
 [submodule "lesshat"]
 	path = lesshat
 	url = https://github.com/CSSHat/LESSHat.git
+[submodule "search-replace-db"]
+	path = search-replace-db
+	url = https://github.com/interconnectit/Search-Replace-DB.git
