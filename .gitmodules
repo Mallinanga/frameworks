@@ -37,3 +37,6 @@
 [submodule "search-replace-db"]
 	path = search-replace-db
 	url = https://github.com/interconnectit/Search-Replace-DB.git
+[submodule "easyfader"]
+	path = easyfader
+	url = https://github.com/patrickkunka/easyfader.git
