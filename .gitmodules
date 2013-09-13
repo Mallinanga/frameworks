@@ -40,3 +40,6 @@
 [submodule "easyfader"]
 	path = easyfader
 	url = https://github.com/patrickkunka/easyfader.git
+[submodule "antwort"]
+	path = antwort
+	url = https://github.com/InterNations/antwort.git
